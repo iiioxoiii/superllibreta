@@ -82,16 +82,18 @@ function CURS_2025_2026_AJUDA(){
   return [
     ['Dia', 'Explicació'],
     ['Inici_Curs', '12/09/2025'],
+    ['Final_Curs', '20/06/2025'],
     ['Festiu_Local_Merce', '25/09/2025'],
+    ['Festiu_Castanyada', '03/11/2025'],
     ['Festiu_La_Purísima', '08/12/2025'],
     ['Festiu_Local_Pasqua', '09/09/2025'],
     ['Festiu_Hispanitat', '12/10/2025'],
-    ['Final_Curs', '20/06/2025'],
+    ['Festiu_Carnaval', '16/02/2026'],
     ['Festiu_Nadal_inici', '21/12/2025'],
     ['Festiu_Nadal_fi', '07/01/2026'],
     ['Festiu_Setmana_Santa_inici', '28/03/2026'],
     ['Festiu_Setmana_Santa_fi', '06/04/2026'],
-    ['Festiu_Segona_Pasqua', '25/05/2026'],
+    ['Festiu_Segona_Pasqua', '22/05/2026'],
     ['Festiu_1_de_Maig', '01/05/2026'],
   ];
 }
